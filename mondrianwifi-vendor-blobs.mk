@@ -197,4 +197,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/bin/irsc_util:system/bin/irsc_util \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/cpp_firmware_v1_1_1.fw:system/etc/firmware/cpp_firmware_v1_1_1.fw \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/cpp_firmware_v1_1_6.fw:system/etc/firmware/cpp_firmware_v1_1_6.fw \
-	vendor/samsung/mondrianwifi/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw
+	vendor/samsung/mondrianwifi/proprietary/etc/firmware/cpp_firmware_v1_2_0.fw:system/etc/firmware/cpp_firmware_v1_2_0.fw \
+	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
+	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin
