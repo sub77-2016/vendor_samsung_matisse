@@ -20,6 +20,8 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/bin/thermal-engine:system/bin/thermal-engine \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libgeofence.so:system/vendor/lib/libgeofence.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libloc_api_v02.so:system/lib/libloc_api_v02.so \
+	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libizat_core.so:system/vendor/lib/libizat_core.so \
+	vendor/samsung/mondrianwifi/proprietary/vendor/lib/liblbs_core.so:system/vendor/lib/liblbs_core.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libacdbloader.so:system/vendor/lib/libacdbloader.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libacdbloader.so:system/lib/libacdbloader.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libaudcal.so:system/vendor/lib/libaudcal.so \
@@ -201,3 +203,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
 	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
 	vendor/samsung/mondrianwifi/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
+	vendor/samsung/mondrianwifi/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
+	vendor/samsung/mondrianwifi/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
+	vendor/samsung/mondrianwifi/proprietary/lib/libmllite.so:system/lib/libmllite.so \
