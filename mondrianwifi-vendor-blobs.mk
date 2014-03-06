@@ -155,6 +155,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/lib/libsecnativefeature.so:system/lib/libsecnativefeature.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libvdis.so:system/lib/libvdis.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libthermalclient.so:system/vendor/lib/libthermalclient.so \
+	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmmcamera_imx134.so:system/vendor/lib/libmmcamera_imx134.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmmcamera_imx135.so:system/vendor/lib/libmmcamera_imx135.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libmmcamera_faceproc.so:system/vendor/lib/libmmcamera_faceproc.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libsensor1.so:system/vendor/lib/libsensor1.so \
