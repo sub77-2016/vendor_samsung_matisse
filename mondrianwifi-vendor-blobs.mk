@@ -207,3 +207,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
 	vendor/samsung/mondrianwifi/proprietary/lib/libmllite.so:system/lib/libmllite.so \
+	vendor/samsung/mondrianwifi/proprietary/lib/libbtnv.so:system/lib/libbtnv.so \
+	vendor/samsung/mondrianwifi/proprietary/bin/btnvtool:system/bin/btnvtool \
+	vendor/samsung/mondrianwifi/proprietary/bin/hci_qcomm_init:system/bin/hci_qcomm_init \
+	vendor/samsung/mondrianwifi/proprietary/etc/init.qcom.bt.sh:system/etc/init.qcom.bt.sh \
