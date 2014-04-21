@@ -196,9 +196,6 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libchromatix_imx135_vt.so:system/vendor/lib/libchromatix_imx135_vt.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libchromatix_imx135_vt_hd.so:system/vendor/lib/libchromatix_imx135_vt_hd.so \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/liboemcamera.so:system/vendor/lib/liboemcamera.so \
-	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_cfg.dat:system/etc/firmware/wlan/prima/WCNSS_cfg.dat \
-	vendor/samsung/mondrianwifi/proprietary/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin:system/etc/firmware/wlan/prima/WCNSS_qcom_wlan_nv.bin \
-	vendor/samsung/mondrianwifi/proprietary/lib/modules/wlan.ko:system/lib/modules/wlan.ko \
 	vendor/samsung/mondrianwifi/proprietary/vendor/lib/libqc-opt.so:system/vendor/lib/libqc-opt.so \
 	vendor/samsung/mondrianwifi/proprietary/bin/qseecomd:system/bin/qseecomd \
 	vendor/samsung/mondrianwifi/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
