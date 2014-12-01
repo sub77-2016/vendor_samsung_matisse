@@ -69,7 +69,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/lib/libinvensense_hal.so:system/lib/libinvensense_hal.so \
 	vendor/samsung/matissewifi/proprietary/lib/libmllite.so:system/lib/libmllite.so \
 	vendor/samsung/matissewifi/proprietary/lib/libmplmpu.so:system/lib/libmplmpu.so \
-	vendor/samsung/matissewifi/proprietary/lib/hw/sensors.msm8226.so:system/lib/hw/sensors.msm8226.so \
+	vendor/samsung/matissewifi/proprietary/lib/hw/sensors.msm8974.so:system/lib/hw/sensors.msm8974.so \
 	vendor/samsung/matissewifi/proprietary/bin/ds_fmc_appd:system/bin/ds_fmc_appd \
 	vendor/samsung/matissewifi/proprietary/bin/efsks:system/bin/efsks \
 	vendor/samsung/matissewifi/proprietary/bin/ks:system/bin/ks \
@@ -102,7 +102,7 @@ PRODUCT_COPY_FILES += \
 	vendor/samsung/matissewifi/proprietary/cameradata/datapattern_front_420sp.yuv:system/cameradata/datapattern_front_420sp.yuv \
 	vendor/samsung/matissewifi/proprietary/etc/imx134_module_info.xml:system/etc/imx134_module_info.xml \
 	vendor/samsung/matissewifi/proprietary/etc/imx135_module_info.xml:system/etc/imx135_module_info.xml \
-	vendor/samsung/matissewifi/proprietary/lib/hw/camera.msm8226.so:system/lib/hw/camera.msm8226.so \
+	vendor/samsung/matissewifi/proprietary/lib/hw/camera.msm8974.so:system/lib/hw/camera.msm8974.so \
 	vendor/samsung/matissewifi/proprietary/lib/libTsAe.so:system/lib/libTsAe.so \
 	vendor/samsung/matissewifi/proprietary/lib/libTsAf.so:system/lib/libTsAf.so \
 	vendor/samsung/matissewifi/proprietary/lib/libTs_J_Accm.so:system/lib/libTs_J_Accm.so \
