@@ -12,9 +12,11 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
+# ORIGIN s3ve3g
+
 LOCAL_PATH := $(call my-dir)
 
-ifneq ($(filter s3ve3g,$(TARGET_DEVICE)),)
+ifneq ($(filter matissewifi,$(TARGET_DEVICE)),)
 
 include $(CLEAR_VARS)
 LOCAL_MODULE := com.qualcomm.location
